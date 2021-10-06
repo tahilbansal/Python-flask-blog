@@ -14,8 +14,8 @@
     "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
     "no_of_posts": 2,
     "login_image":"login.svg",
-    "admin_user":"harry",
-    "admin_password": "subscribenow",
+    "admin_user":"Tahil",
+    "admin_password": "****",
     "upload_location" : "C:\\Users\\BHARAT\\PycharmProjects\\flaskwebD\\static"
   }
 }
